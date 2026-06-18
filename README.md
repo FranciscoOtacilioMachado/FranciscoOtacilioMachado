@@ -73,4 +73,4 @@ Busco minha primeira oportunidade profissional como Desenvolvedor Front-End Jún
 
 ## 💡 Frase que me inspira
 
-> "Grandes conquistas são construídas através de pequenos avanços diários."
+> "Não nascemos prontos, vamos nos fazendo." — Mario Sergio Cortella
