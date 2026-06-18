@@ -65,7 +65,7 @@ Busco minha primeira oportunidade profissional como Desenvolvedor Front-End Jún
 
 ## 📫 Contato
 
-* GitHub: https://github.com/fransciscootaciliomachado
+* GitHub: https://github.com/FransciscoOtacilioMachado
 * LinkedIn: www.linkedin.com/in/francisco-o-machado/
 * E-mail: franciscootacilio@gmail.com
 
